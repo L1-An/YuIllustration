@@ -1,0 +1,14 @@
+Database:
+  Method: SQLite
+  SQL:
+    host: localhost
+    port: 3306
+    user: root
+    password: root
+    database: yuillustration
+    table: yuillustration_user_data
+
+# 默认提供的变量，可自定义显示格式
+placeholders:
+  # 解锁时间，支持的占位符有：%YYYY%年 %MM%月 %DD%日 %HH%小时 %mm%分钟 %ss%秒钟
+  unlock-time: "&6%YYYY%年%MM%月%DD%日 &6%HH%:%mm%:%ss%"

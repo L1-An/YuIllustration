@@ -1,0 +1,11 @@
+示例条目1:
+  class: "武器"
+  material: WOODEN_SWORD
+  name: "木剑"
+  lore:
+    - "&6这是一把木剑"
+    - " "
+    - "&a解锁时间: &c{unlock-time}"
+  # 支持多行条件
+  condition:
+    - "player.level >= 10"
