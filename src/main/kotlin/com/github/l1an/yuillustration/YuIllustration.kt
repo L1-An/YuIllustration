@@ -1,10 +1,8 @@
 package com.github.l1an.yuillustration
 
-import org.bukkit.Bukkit
 import taboolib.common.platform.Platform
 import taboolib.common.platform.Plugin
 import taboolib.common.platform.function.console
-import taboolib.common.platform.function.info
 import taboolib.module.chat.colored
 import taboolib.module.lang.Language
 import taboolib.module.metrics.Metrics
